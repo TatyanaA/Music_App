@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import fred from './freddie-mercury-71848_640.jpg'; 
+import fred from "/freddie-mercury-71848_640.jpg"; 
 
 const SongList = () => {
   const [likedTracks, setLikedTracks] = useState([]);
