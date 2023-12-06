@@ -12,7 +12,7 @@ const SongList = () => {
   };
 
   return (
-    <div>
+    <>
       <h2>Songs List</h2>
       <div className='songList'>
         <ol>
@@ -88,7 +88,7 @@ const SongList = () => {
       </div>
 
       
-    </div>
+    </>
   );
 };
 
